@@ -47,18 +47,20 @@ This repository contains practice projects, assignments, and mini-applications c
 ## 📁 Repository Structure
 
 ```text
-Day01/
-Day02/
-Day03/
-...
-Day10/
-Assignments/
+csharp-dotnet-practice/
+│
+├── 01-CSharp-Basics/
+├── 02-Classes-and-Objects/
+├── 03-Method-Overloading-and-Overriding/
+├── 04-ECommerce-Order-Management/
+├── 05-Social-Media-Management/
+├── ...
+└── README.md
 ```
 
-Each folder contains practical implementations and exercises related to the corresponding topic.
+Each folder contains a standalone project with its own source code, project file, README, and output (where applicable).
 
 ---
-
 ## 🎯 Learning Outcomes
 
 Through these projects, I gained practical experience in:
